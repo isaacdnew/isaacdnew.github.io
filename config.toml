@@ -6,7 +6,7 @@ theme = "aether"
 
 [params]
 	brand = "isaacdnew"
-	description = "The website's description"
+	description = "My personal website and portfolio"
   github = "https://github.com/isaacdnew"
   linkedin = "https://www.linkedin.com/in/isaacdnew/"
 	bgimg = "Path, within the 'assets' folder, of the image used for the page background - optional"
