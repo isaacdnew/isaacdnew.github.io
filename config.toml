@@ -1,0 +1,17 @@
+baseURL = 'https://www.isaacdnew.com/'
+languageCode = 'en-us'
+title = 'Isaac Newcomb'
+
+theme = "aether"
+
+[params]
+	brand = "isaacdnew"
+	description = "The website's description"
+  github = "https://github.com/isaacdnew"
+  linkedin = "https://www.linkedin.com/in/isaacdnew/"
+	bgimg = "Path, within the 'assets' folder, of the image used for the page background - optional"
+	rssinmenu = false
+
+[markup]
+  [markup.highlight]
+    style = "igor"
