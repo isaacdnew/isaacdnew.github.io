@@ -11,6 +11,7 @@ theme = "aether"
   linkedin = "https://www.linkedin.com/in/isaacdnew/"
 	bgimg = "Path, within the 'assets' folder, of the image used for the page background - optional"
 	rssinmenu = false
+	headshotimg = "img/isaac-holding-melodica-square.jpg"
 
 [markup]
   [markup.highlight]

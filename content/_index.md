@@ -1,5 +1,5 @@
 ---
-title: "aether"
-date: 2018-04-27T09:46:15-04:00
-description: "A clean Hugo theme for blogs emphasizing motion, material, and depth."
+title: "Isaac Newcomb"
+date: 2021-12-15T17:51:00-04:00
+description: "I'm a studying mechanical engineer, musician and 3D-printing enthusiast. Learn about my projects below!"
 ---
