@@ -4,7 +4,7 @@ date: 2021-12-16T01:16:09-05:00
 description: ""
 displayInMenu: true
 displayInList: false
-draft: true
+draft: false
 dropCap: false
 resources:
 - name: featuredImage
