@@ -5,7 +5,7 @@ title = 'Isaac Newcomb'
 theme = "aether"
 
 [params]
-	brand = "isaacdnew"
+	brand = "isaacdnew.com"
 	description = "My personal website and portfolio"
   github = "https://github.com/isaacdnew"
   linkedin = "https://www.linkedin.com/in/isaacdnew/"

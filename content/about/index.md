@@ -1,20 +1,17 @@
-+++
-title = "About Hugo"
-date = "2014-04-09"
-displayInMenu = true
-displayInList = false
-dropCap = false
-+++
-
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+---
+title: "Meet Isaac"
+date: 2021-12-16T01:16:09-05:00
+description: "Description of the post (displayed in the post's card)"
+displayInMenu: true
+displayInList: false
+draft: true
+resources:
+- name: featuredImage
+  src: "/assets/img/isaac-holding-melodica-square.jpg"
+  params:
+    description: "Description for the featured image, used as the alt text"
+    attribution:
+      name: "Name of person to attribute image to"
+      link: "optional URL to persons site"
+---
 
