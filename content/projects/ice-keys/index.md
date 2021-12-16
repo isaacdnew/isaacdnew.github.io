@@ -3,10 +3,10 @@ title: "Ice Keys"
 date: 2021-12-16T01:18:06-05:00
 description: "I didn't like how melodicas sounded, so I 3D printed an acoustic keyboard that sounds like polyphonic pan pipes."
 categories: ["Projects"]
-dropCap: false
 displayInMenu: false
 displayInList: true
 draft: false
+dropCap: false
 resources:
 - name: featuredImage
   src: "p2.jpg"
