@@ -30,7 +30,7 @@ Main Issues:
 4. **Incorrect pipe lengths.** The model I used to determine the lengths is based on too many idealizations.
 5. **Looks.** The blue color is too pale and the off-white keys look dirty.
 
-### [Ice Keys P2](p2)
+### Ice Keys P2
 
 ![A picture of Ice Keys P2](p2.jpg)
 
@@ -42,7 +42,7 @@ Main issues:
 2. **Tuning.** The pitch varies significantly with variations in lung pressure, so tuning requires a steadier source of air, e.g. from a bellows.
 3. **Build Quality.** While its appearance and ergonomics are much better than P1, P2 still feels like a prototype. Some edges are unfinished; some mechanisms uncovered.
 
-### [Ice Keys P3](p3)
+### Ice Keys P3
 
 ![A picture of Ice Keys P3](p3.jpg)
 
