@@ -13,6 +13,9 @@ resources:
 
 I'm an undergraduate at Cornell studying mechanical engineering, but I also do other things.
 
+## Engineering and Design
+Throughout my life, I've pursued a wide range of design projects. From my early LEGO® sculptures to my recent Ice Keys musical instrument to my work at Combat Robotics at Cornell, one thing has been consistent: I love to create compact, beautiful, sturdy, functional products that advance both my understanding of the world and everyone's enjoyment of it.
+
 ## Music
 I write electronic pop songs and post them on [soundcloud](https://soundcloud.com/isaacnewcomb). I'm also in a band called The Fuse. We play rock with influences from metal, alternative and other genres, and we're entering a competition to open for the 2022 Slope Day concert that wraps up the year at Cornell.
 
