@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description: ""
-categories: []
+categories: ["Projects"]
 displayInMenu: false
 displayInList: true
 draft: true
