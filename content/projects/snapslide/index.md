@@ -1,7 +1,7 @@
 ---
-title: "SnapSlide: A Pitch-corrected Slide Whistle"
+title: "SnapSlide"
 date: 2022-01-15T17:03:25-05:00
-description: ""
+description: "What's that sound? My individual project for Mechatronics (MAE 3780 at Cornell): a pitch-corrected slide whistle."
 categories: ["Projects"]
 displayInMenu: false
 displayInList: true
@@ -12,7 +12,6 @@ resources:
   src: "isaac-holding-snapslide-1.jpg"
 ---
 
-## Overview
 SnapSlide is a slide whistle that tries to fix your imprecise slide positioning with a servo. A microphone at the mouthpiece listens for a note, and when there is one, the Arduino does a discrete fourier transform to quickly find the note’s frequency. Based on that frequency and on an arbitrary set of “desirable” frequencies (e.g. the set of frequencies that correspond to the white keys on a piano), the Arduino estimates how far it needs to move the slide to get to the “desirable” pitch. Once that’s done, it tells the servo to move the slide to the desired position. Since this type of control results in a feedback loop, SnapSlide uses a PID algorithm. The P term is the most important, so SnapSlide’s potentiometer is used to adjust it. And the three LEDs indicate which direction (if any) the slide is being moved to correct a slide position.
 
 {{< youtube id="kM_aL1Ld2BY" title="SnapSlide: AutoTune on a slide whistle?" >}}
