@@ -3,8 +3,8 @@
 <meta charset=utf-8>
 <meta http-equiv=x-ua-compatible content="ie=edge">
 <meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
-<title>SnapSlide: A Pitch-corrected Slide Whistle &#183; Isaac Newcomb</title>
-<meta name=description content>
+<title>SnapSlide &#183; Isaac Newcomb</title>
+<meta name=description content="What's that sound? My individual project for Mechatronics (MAE 3780 at Cornell): a pitch-corrected slide whistle.">
 <meta property="og:locale" content="en">
 <meta property="og:type" content="article">
 <meta property="og:title" content="isaacdnew.com">
@@ -39,14 +39,13 @@
 <main class="content side-text-padding">
 <article class=post>
 <header class=post-header>
-<h1 class=post-title>SnapSlide: A Pitch-corrected Slide Whistle</h1>
+<h1 class=post-title>SnapSlide</h1>
 <p class=post-date>Posted <time datetime=2022-01-15>Jan 15, 2022</time></p>
 </header>
 <picture class=post-figure>
 <source srcset="https://isaacdnew.com/projects/snapslide/isaac-holding-snapslide-1_hu2a5e4b891b9b2d5cde5633004b74d0c3_2954598_711x0_resize_q75_lanczos.jpg 1x, https://isaacdnew.com/projects/snapslide/isaac-holding-snapslide-1_hu2a5e4b891b9b2d5cde5633004b74d0c3_2954598_1422x0_resize_q75_lanczos.jpg 2x, https://isaacdnew.com/projects/snapslide/isaac-holding-snapslide-1_hu2a5e4b891b9b2d5cde5633004b74d0c3_2954598_2133x0_resize_q75_lanczos.jpg 3x">
 <img src=https://isaacdnew.com/projects/snapslide/isaac-holding-snapslide-1_hu2a5e4b891b9b2d5cde5633004b74d0c3_2954598_711x0_resize_q75_lanczos.jpg>
 </picture>
-<h2 id=overview>Overview</h2>
 <p>SnapSlide is a slide whistle that tries to fix your imprecise slide positioning with a servo. A microphone at the mouthpiece listens for a note, and when there is one, the Arduino does a discrete fourier transform to quickly find the note’s frequency. Based on that frequency and on an arbitrary set of “desirable” frequencies (e.g. the set of frequencies that correspond to the white keys on a piano), the Arduino estimates how far it needs to move the slide to get to the “desirable” pitch. Once that’s done, it tells the servo to move the slide to the desired position. Since this type of control results in a feedback loop, SnapSlide uses a PID algorithm. The P term is the most important, so SnapSlide’s potentiometer is used to adjust it. And the three LEDs indicate which direction (if any) the slide is being moved to correct a slide position.</p>
 <div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden>
 <iframe src=https://www.youtube.com/embed/kM_aL1Ld2BY style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 allowfullscreen title="SnapSlide: AutoTune on a slide whistle?"></iframe>
