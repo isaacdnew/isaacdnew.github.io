@@ -12,4 +12,3 @@ resources:
   src: "frog-side.jpg"
 ---
 
-This page is incomplete — I'm focusing on getting the theme the way I want for now. Here's a picture of the reclaimed steel frog sculpture I made:
