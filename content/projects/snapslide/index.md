@@ -9,7 +9,7 @@ draft: false
 dropCap: false
 resources:
 - name: featuredImage
-  src: "isaac-holding-snapslide-1.jpg"
+  src: "images/isaac-holding-snapslide-1.jpg"
 ---
 
 SnapSlide is a slide whistle that tries to fix your imprecise slide positioning with a servo. A microphone at the mouthpiece listens for a note, and when there is one, the Arduino does a discrete fourier transform to quickly find the note’s frequency. Based on that frequency and on an arbitrary set of “desirable” frequencies (e.g. the set of frequencies that correspond to the white keys on a piano), the Arduino estimates how far it needs to move the slide to get to the “desirable” pitch. Once that’s done, it tells the servo to move the slide to the desired position. Since this type of control results in a feedback loop, SnapSlide uses a PID algorithm. The P term is the most important, so SnapSlide’s potentiometer is used to adjust it. And the three LEDs indicate which direction (if any) the slide is being moved to correct a slide position.
@@ -30,7 +30,7 @@ With another month and 20 more dollars, I would have considered using a real sli
 
 ### Assemble the major parts
 
-{{< figure src="SnapSlide Parts Diagram.png" title="" >}}
+{{< figure src="images/SnapSlide Parts Diagram.png" title="" >}}
 
 *I plan to post the files for SnapSlide to Thingiverse. Coming soon!*
 
@@ -55,13 +55,13 @@ With another month and 20 more dollars, I would have considered using a real sli
 
 ### Wire it up
 
-{{< figure src="circuit-diagram.png" title="SnapSlide's circuit diagram. The arrow-shaped boxes are Arduino pins." >}}
+{{< figure src="images/circuit-diagram.png" title="SnapSlide's circuit diagram. The arrow-shaped boxes are Arduino pins." >}}
 
 1. Attach the microphone to the mouthpiece with a zip tie and loop the wire under it to relieve stress on the pins.
 2. Use a mini breadboard next to the Arduino to make all the connections shown in the circuit diagram.
 
 Great job — you now have a SnapSlide!
 
-{{< figure src="white-background-birdseye.jpg" title="The finished product." >}}
+{{< figure src="images/white-background-birdseye.jpg" title="The finished product." >}}
 
 
