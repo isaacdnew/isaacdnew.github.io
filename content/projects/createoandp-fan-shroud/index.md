@@ -9,5 +9,5 @@ draft: true
 dropCap: false
 resources:
 - name: featuredImage
-  src: ""
+  src: "images/fan-shroud(1).png"
 ---
