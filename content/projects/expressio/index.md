@@ -9,5 +9,5 @@ draft: true
 dropCap: false
 resources:
 - name: featuredImage
-  src: "expressio-thumbnail.png"
+  src: "images/expressio-thumbnail.png"
 ---

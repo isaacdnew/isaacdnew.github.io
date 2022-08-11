@@ -9,6 +9,6 @@ displayInList: true
 draft: true
 resources:
 - name: featuredImage
-  src: "frog-side.jpg"
+  src: "images/frog-side.jpg"
 ---
 
