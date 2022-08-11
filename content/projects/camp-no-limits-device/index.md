@@ -1,7 +1,7 @@
 ---
-title: "A Better Hand for Working Out"
+title: "A Helping Hand for the Gym"
 date: 2019-08-01T12:22:24-05:00
-description: "At Camp No Limits, I collaborated with prosthetists and a congenital amputee to design and print her a terminal device for the gym."
+description: "At Camp No Limits, I collaborated with prosthetists and a congenital amputee to design and print her a terminal device for her workout routine."
 categories: ["Projects"]
 displayInMenu: false
 displayInList: true
@@ -12,7 +12,7 @@ resources:
   src: "images/flexed-on-table.jpg"
 ---
 
-In collaboration with [Operation Namaste](https://www.operationnamaste.org/), I collaboratively [prototyped](https://isaacdnew.com/g-tour-3d-printer) a portable 3D printer that folds into a briefcase. The work culminated in bringing the prototype to [Camp No Limits](https://nolimitsfoundation.org) at Quinnipiac University in July 2019, where I spent a long weekend working with prosthetists and a congenital amputee to design and print her a hand device for working out in the gym. Here are some pictures showing the process:
+In collaboration with [Operation Namaste](https://www.operationnamaste.org/), I collaboratively prototyped a [portable 3D printer](https://isaacdnew.com/g-tour-3d-printer) that folds into a briefcase. The work culminated in bringing the prototype to [Camp No Limits](https://nolimitsfoundation.org) at Quinnipiac University in July 2019, where I spent a long weekend working with prosthetists and a congenital amputee to design and print her a hand device for working out in the gym. Here are some pictures showing the process:
 
 ## Day 1: July 12
 {{< figure src="images/Hand V0 v11.png" title="The initial CAD model. Two different-diameter notches on the distal end allow for easy, no-slip support when pushing against a bar. The mushroom shape allows for hooking around bars and pulling on them." >}}
