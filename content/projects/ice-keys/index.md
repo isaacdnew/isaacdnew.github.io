@@ -9,7 +9,7 @@ draft: false
 dropCap: false
 resources:
 - name: featuredImage
-  src: "p2.jpg"
+  src: "images/p2.jpg"
 ---
 
 An acoustic keyboard that sounds like polyphonic pan pipes.
@@ -18,9 +18,9 @@ An acoustic keyboard that sounds like polyphonic pan pipes.
 
 ### Ice Keys P1
 
-![A picture of Ice Keys P1](p1.jpg)
-
 This was the first prototype, with 25 keys. A 3-tone color palette and exposed mechanisms give it a steampunk feel.
+
+{{< figure src="images/p1.jpg" >}}
 
 Main Issues:
 
@@ -32,9 +32,9 @@ Main Issues:
 
 ### Ice Keys P2
 
-![A picture of Ice Keys P2](p2.jpg)
-
 The first playable version, also with 25 keys. Minimal casing and a better 2-tone PLA palette make for a sleek, versatile second prototype.
+
+{{< youtube hTRGMlUn_k0 >}}
 
 Main issues:
 
@@ -44,9 +44,9 @@ Main issues:
 
 ### Ice Keys P3
 
-![A picture of Ice Keys P3](p3.jpg)
-
 This is the most recent prototype. With its larger 30-key range, wrap-around case and compact action, it improves on P2 in many areas. This version has a 3-tone color palette, sporting a translucent royal blue and clear keys on a black body.
+
+{{< figure src="images/p3.jpg" >}}
 
 Main issues:
 
