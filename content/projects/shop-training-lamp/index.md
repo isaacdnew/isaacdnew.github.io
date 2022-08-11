@@ -9,5 +9,5 @@ draft: true
 dropCap: false
 resources:
 - name: featuredImage
-  src: ""
+  src: "images/PXL_20210303_040010397.jpg"
 ---

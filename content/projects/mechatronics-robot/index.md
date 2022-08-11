@@ -9,5 +9,5 @@ draft: true
 dropCap: false
 resources:
 - name: featuredImage
-  src: ""
+  src: "images/kirbotty-vertical.jpg"
 ---

@@ -9,5 +9,5 @@ draft: true
 dropCap: false
 resources:
 - name: featuredImage
-  src: ""
+  src: "images/tower-2.jpg"
 ---
