@@ -2,7 +2,7 @@ baseURL = 'https://isaacdnew.com'
 languageCode = 'en-us'
 title = 'Isaac Newcomb'
 
-theme = "aether"
+theme = ["hugo-embed-pdf-shortcode", "aether"]
 
 [params]
 	brand = "isaacdnew.com"

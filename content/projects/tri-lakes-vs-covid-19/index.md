@@ -15,6 +15,7 @@ resources:
 When COVID-19 hit, a group of makers in the Tri-Lakes area banded together to provide much-needed face shields to local healthcare professionals. As Head R&D Engineer, I researched face shield designs, improved one given user feedback, and coordinated with the group to maximize printer throughput and uptime by providing stacked models and guidance for print settings. We distributed over 4500 face shields to hospitals, search-and-rescue teams, and essential workers throughout the Tri-Lakes area.
 
 ## Research
+We started the project in March 2020 by searching for proven designs already in use. The goal was to minimize the time it took for local professionals to adopt the face shields, so we chose to minimize the amount of new designing to be done.
 
 ## Combining two designs
 
