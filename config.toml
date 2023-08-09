@@ -11,7 +11,7 @@ theme = ["hugo-embed-pdf-shortcode", "aether"]
   linkedin = "https://www.linkedin.com/in/isaacdnew/"
 	bgimg = "Path, within the 'assets' folder, of the image used for the page background - optional"
 	rssinmenu = false
-	headshotimg = "img/isaac-holding-melodica-square.jpg"
+	headshotimg = "img/Isaac Look To Side - Square.jpg"
 
 [markup]
   [markup.highlight]
