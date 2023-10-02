@@ -11,4 +11,4 @@ resources:
   src: ""
 ---
 
-{{< embed-pdf url="Isaac Newcomb - Resume 2022-12-30.pdf" >}}
+{{< embed-pdf url="Isaac Newcomb - Resume 2023-10-02.pdf" >}}
