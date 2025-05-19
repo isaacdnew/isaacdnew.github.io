@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: 2022-12-30T01:16:09-05:00
+date: 2025-02-05T01:16:09-05:00
 description: ""
 displayInMenu: true
 displayInList: false
@@ -11,4 +11,4 @@ resources:
   src: ""
 ---
 
-{{< pdf-reader "Isaac Newcomb - Resume 2024-07-21.pdf" >}}
+{{< pdf-reader "Isaac Newcomb - Resume 2025-02-05.pdf" >}}
