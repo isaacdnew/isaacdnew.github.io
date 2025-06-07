@@ -11,4 +11,7 @@ resources:
   src: ""
 ---
 
+This resume is tailored for audio engineering. My [LinkedIn profile](https://linkedin.com/in/isaacdnew) lists all my experiences, including those more relevant to mechanical engineering.
+
+
 {{< pdf-reader "Isaac Newcomb - Resume 2025-06-07.pdf" >}}
